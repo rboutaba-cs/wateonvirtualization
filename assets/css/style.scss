@@ -2,6 +2,10 @@
 ---
 
 @import "{{ site.theme }}";
+html {
+  background:#C0C0C0;
+  height: 100%;
+}
 A:link { color: #880000;}
 A:visited { color:#880000}
 A:active { color: #880000}
